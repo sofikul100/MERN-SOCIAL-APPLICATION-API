@@ -1,0 +1,20 @@
+Technology:
+
+Frontend:- 
+--> HTML5
+--> CSS3
+--> JAVASCRIPT
+--> REACT
+--> REACT-BOOTSTRAP
+--> REDUX..!!
+
+Backend:-
+--> NODE EXPRESSJS
+--> MONGODB
+
+
+Project Api Functionlity:-
+--> Complete authentication
+--> Post (create,edit,update,delete)
+--> Post like,unlike,comment
+--> User follow,unfollow,account delete
