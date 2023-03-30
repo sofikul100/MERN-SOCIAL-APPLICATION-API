@@ -1,0 +1,22 @@
+Technology:
+
+Frontend:- 
+--> HTML5
+--> CSS3
+--> JAVASCRIPT
+--> REACT
+--> REACT-BOOTSTRAP
+--> REDUX..!!
+
+Backend:-
+--> NODE EXPRESSJS
+--> MONGODB
+
+
+Project Api Functionlity:-
+--> Complete authentication with role (admin and user)
+--> Product (create,edit,update,delete)
+--> Product Review , wishlist, compare
+--> Product search, product pricing filter,category filter,pagination etc
+--> Order 
+--> Payment (Stripe)
